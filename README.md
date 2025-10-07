@@ -86,9 +86,9 @@ Your CSV file can have any structure. The application will let you select which 
 **Example CSV:**
 ```csv
 Student ID,Name,Class,Grade
-001,John Smith,A,10
-002,Jane Doe,B,10
-003,Bob Johnson,A,10
+001,Offer Yang,A,10
+002,Uploader Li,B,10
+003,Director Wang,A,10
 ```
 
 Just select the "Name" column when prompted.
