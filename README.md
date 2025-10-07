@@ -89,6 +89,8 @@ Student ID,Name,Class,Grade
 001,Offer Yang,A,10
 002,Uploader Li,B,10
 003,Director Wang,A,10
+004,ComedyGod Lin,A,10
+005,FriedFish Chiu,B,10
 ```
 
 Just select the "Name" column when prompted.
