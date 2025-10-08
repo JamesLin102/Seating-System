@@ -31,6 +31,14 @@ A comprehensive GUI application for generating and managing exam seating arrange
 - Includes stage indicator and student names
 - Ready for printing or digital distribution
 
+## 🌐 Web Version Available!
+
+A web-based version of this system is also available:
+- **Live Demo**: https://jameslin102.github.io/Seating-System-Web/
+- **Repository**: https://github.com/JamesLin102/Seating-System-Web.git
+
+The web version runs entirely in your browser, no installation required!
+
 ## Installation
 
 ### Prerequisites
